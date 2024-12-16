@@ -1,0 +1,9 @@
+1. (A and B) or C = (A or C) and (B or C)
+   (A or B) and C = (A and C) or (B and C)
+2. A and A = A | A or A = A
+3. not (A and B) = not A or not B
+   not (A or B) = not A and not B
+4. A and not A = 0 | A or not A = 1
+5. A -> B = not A or B
+
+Отметить точки на прямой и обозначить соотвествующие отрезки
