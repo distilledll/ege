@@ -3,7 +3,7 @@ ex2 - py
 ex3 - ex
 ex4 - hand/py??
 ex5 - py
-ex6 - kumir
+ex6 - hand
 ex7 - hand
 ex8 - hand/py
 ex9 - ex
@@ -11,12 +11,12 @@ ex10 - doc
 ex11 - hand
 ex12 - py
 ex13 - hand
-ex14 -
+ex14 - py
 ex15 - hand
-ex16 - py
+ex16 - hand
 ex17 - py
 ex18 - ex
-ex19-21 - hand
+ex19-21 - ex
 ex22 - ex
 ex23 - py
 ex24 - py
