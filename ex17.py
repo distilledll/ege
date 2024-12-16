@@ -1,0 +1,1 @@
+s = [int(x) for x in open('17-411.txt')]
