@@ -1,11 +1,11 @@
 ex1 - py
 ex2 - py
 ex3 - ex
-ex4 - hand/py??
+ex4 - hand
 ex5 - py
 ex6 - hand
 ex7 - hand
-ex8 - hand/py
+ex8 - py
 ex9 - ex
 ex10 - doc
 ex11 - hand
@@ -24,8 +24,7 @@ ex25 - py
 ex26 - py
 ex27 - py
 
-py - 11(+2)
-ex - 4
-hand - 9
+py - 12
+ex - 7
+hand - 7
 doc - 1
-kumir - 1
